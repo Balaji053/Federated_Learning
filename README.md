@@ -15,22 +15,8 @@ https://www.kaggle.com/code/enricobaldasso/prediction-of-solar-radiation-data/in
 
 Results:
 Model Performances on Solar Radiation Prediction:
-Type of Model	    With Federated Learning	      Without Federated Learning
-Linear Regression	RMSE: 193.74                    RMSE: 193.44
-                  R2: 0.62                        R2: 0.62
-                  MAE: 146.50                     MAE: 146.72	
-                  
 
-Multi-Layer Perceptron	Mean Absolute Error (MAE):        Mean Absolute Error (MAE):
-                        65.75033116335385	                     58.33900969015126
-
-Ridge Regression	RMSE: 193.45                    RMSE: 193.44
-                  R2: 0.62                        R2: 0.62
-                  MAE: 146.50                     MAE: 146.50
-                  
-
-Recurrent Neural Network	Mean Absolute Error (MAE):           Mean Absolute Error (MAE):
-                          165.62572284290644	                   110.38326333556199
+![Model Performances on Solar Radiation Prediction:](https://github.com/balaji-reddy-helper/Federated_Learning/blob/main/Screenshot%202024-04-05%20023642.png?raw=true)
 
 
 
