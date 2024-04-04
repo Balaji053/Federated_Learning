@@ -13,9 +13,6 @@ Our objective is to derive an ML model to forecast the solar radiation as a func
 Dataset: 
 https://www.kaggle.com/code/enricobaldasso/prediction-of-solar-radiation-data/input
 
-Results:
-Model Performances on Solar Radiation Prediction:
-
 ![Model Performances on Solar Radiation Prediction:](https://github.com/balaji-reddy-helper/Federated_Learning/blob/main/Screenshot%202024-04-05%20023642.png?raw=true)
 
 
